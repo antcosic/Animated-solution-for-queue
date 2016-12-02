@@ -1,3 +1,4 @@
 # Animated-solution-for-queue
 
-Konzolna aplikacija koja simulira red čekanja u banci, nekoj instituciji.
+
+The console application that simulates a queue in a bank, an institution.
